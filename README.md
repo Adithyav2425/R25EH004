@@ -7,3 +7,9 @@ I am Adithya V, a B.Tech Artificial Intelligence and Data Science student at REV
 - **Databases:** SQL
 - **Libraries & Tools:** NumPy, Pandas, Matplotlib, Git
 - **Web Technologies:** HTML, CSS
+
+## Connect With Me
+
+- **Email:** Adithyavijaykumar09@gmail.com
+- **LinkedIn:** [Adithya Vijay](https://www.linkedin.com/in/adithya-vijay-061105207/)
+- **GitHub:** [Adithyav2425](https://github.com/Adithyav2425)
